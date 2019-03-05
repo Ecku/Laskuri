@@ -8,6 +8,7 @@ package laskuri;
 /**
  *
  * @author ESM
+  "muokattu GitHubissa"
  */
 public class Laskuri {
       /* laskuriolion kentan arvoa voi kasvattaa yhdella kutsumalla metodia
